@@ -3,7 +3,7 @@
 
 "Vault Pass" is a simple password manager application built using Python, Django, SQLite, Bootstrap, HTML, CSS, and JavaScript.
 
-![Alt Text](https://raw.githubusercontent.com/orenrimer/django-password-manager/main/screenshots/vault_pass_home.png)
+![Alt Text](https://raw.githubusercontent.com/notarkhit/django-password-vault/main/screenshots/vault_pass_home.png)
 
 
 Features:
@@ -26,7 +26,7 @@ To run the website run type the following commend in CMD:
 ```python
 python manage.py runserver
 ```
-then copy the link into your browser to lunch the website.
+then copy the link into your browser to launch the website.
 <br/>
 
 You can create a django superuser by running the following commend in CMD:
